@@ -1,5 +1,5 @@
 # MovieBot_by_Vlad_Efremov
-Telegram bot.\n
+Telegram bot.
 Команды для бота:
 /help - для получении информации о командах 
 /popular - вывести самые популярные фильмы
